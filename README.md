@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tejaswini
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in learning .Net core, Microservices, Azure, React, Angular.
+- 🌱 I’m currently learning Angular and .Net core
 - 📫 You can reach out to me on https://www.linkedin.com/in/tejaswini-dhotre-8bb1bb96/
 
 <!---
